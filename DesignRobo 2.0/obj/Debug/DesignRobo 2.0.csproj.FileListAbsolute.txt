@@ -1,0 +1,14 @@
+C:\Users\nel_2\source\repos\DesignRobo 2.0\DesignRobo 2.0\obj\Debug\DesignRobo 2.0.csprojAssemblyReference.cache
+C:\Users\nel_2\source\repos\DesignRobo 2.0\DesignRobo 2.0\obj\Debug\DesignRobo_2._0.Properties.Resources.resources
+C:\Users\nel_2\source\repos\DesignRobo 2.0\DesignRobo 2.0\obj\Debug\DesignRobo 2.0.csproj.GenerateResource.cache
+C:\Users\nel_2\source\repos\DesignRobo 2.0\DesignRobo 2.0\obj\Debug\DesignRobo 2.0.csproj.CoreCompileInputs.cache
+C:\Users\nel_2\source\repos\DesignRobo 2.0\DesignRobo 2.0\bin\Debug\DesignRobo 2.0.exe.config
+C:\Users\nel_2\source\repos\DesignRobo 2.0\DesignRobo 2.0\bin\Debug\DesignRobo 2.0.exe
+C:\Users\nel_2\source\repos\DesignRobo 2.0\DesignRobo 2.0\bin\Debug\DesignRobo 2.0.pdb
+C:\Users\nel_2\source\repos\DesignRobo 2.0\DesignRobo 2.0\bin\Debug\MetroFramework.Design.dll
+C:\Users\nel_2\source\repos\DesignRobo 2.0\DesignRobo 2.0\bin\Debug\MetroFramework.dll
+C:\Users\nel_2\source\repos\DesignRobo 2.0\DesignRobo 2.0\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\nel_2\source\repos\DesignRobo 2.0\DesignRobo 2.0\obj\Debug\DesignRobo 2.0.csproj.CopyComplete
+C:\Users\nel_2\source\repos\DesignRobo 2.0\DesignRobo 2.0\obj\Debug\DesignRobo 2.0.exe
+C:\Users\nel_2\source\repos\DesignRobo 2.0\DesignRobo 2.0\obj\Debug\DesignRobo 2.0.pdb
+C:\Users\nel_2\source\repos\DesignRobo 2.0\DesignRobo 2.0\obj\Debug\DesignRobo_2._0.Form1.resources
